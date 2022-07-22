@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <HelloWorld msg="Welcome to Your Vue.js App" />
+    <font-awesome-icon icon="fa-solid fa-user-secret" />
   </div>
 </template>
 
